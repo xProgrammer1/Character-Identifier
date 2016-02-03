@@ -1,0 +1,5 @@
+As a user I need to be able see the font in large characters so that I can see all the parts of the character.
+
+As a user I need the hex and decimal entities so that I can use a character in my program or website that my keyboard does not support
+
+As a user I need the hex and unicode numbers so that I can use a character in my program or website that my keyboard does not support if the character does not have an entity.
