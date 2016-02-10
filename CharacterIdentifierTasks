@@ -1,0 +1,74 @@
+Tasks:
+
+————————————————————————————————————————
+As a user I need to be able to paste my character into the program so that I can retrieve information about the character.
+————
+
+1. Create a program that utilizes the .csv file to output a list of all the characters or specific chosen ones. (i.e. Input a character name, and have the symbol outputted in a textfield box.)
+
+2. Create a new program that utilizes the .csv file but asks for the character first. After the character is inputted, output the same character.
+
+————————————————————————————————————————
+As a user I need to be able see the font in large characters so that I can verify that this is actually the character I want.
+————
+
+1. Change the previous (second) program so that the same character outputted is bigger in size.
+
+————————————————————————————————————————
+As a user I need the alpha entities so that I can use a character in my program or website that my keyboard does not support.
+————
+
+1. Add a JTextField to output the alpha entity once the character is inputted. (To make this work, find out if there is a file that can be accessed to correspond a character variable with a particular alpha entity.)
+
+2. Display in smaller font (below the heading for the JTextField) the functionality of the alpha entity of the character. 
+
+————————————————————————————————————————
+As a user I need the hex and decimal entity so that I can use a character in my program or website that my keyboard does not support if the character does not have an alpha entity.
+————
+
+1. Add another JTextField to output the hex and decimal entity once the character is inputted. (To make this work, find out if there is a file that can be accessed to correspond a character variable with a particular hex and decimal entity.)
+
+2. Display in smaller font (below the heading for the JTextField) the functionality of the hex and decimal entity representation of the character. 
+
+————————————————————————————————————————
+As a user I need the hex and decimal Unicode numbers so that I can use a character in my program that is coded in another language that my keyboard does not support when I am coding in a language other than Java.
+————
+
+1. Add another JTextField to output the hex and decimal Unicode numbers once the character is inputted. (To make this work, find out if there is a file that can be accessed to correspond a character variable with a particular hex and decimal Unicode number.)
+
+2. Display in smaller font (below the heading for the JTextField) the functionality of the hex and decimal Unicode representation of the character. 
+
+————————————————————————————————————————
+As a user I need to be able to see what a character will look like in UTF-8 so that I can make the decision whether it would be more convenient/faster to use UTF.
+————
+
+1. Add two more JTextFields to output the UTF-8 and UTF numbers once the character is inputted. (To make this work, find out if there is a file that can be accessed to correspond a character variable with particular UTF-8 or UTF number representations.)
+
+2. Display in smaller font (below the heading for the JTextField) the functionality of the UTF-8 and UTF representations of the character. 
+
+————————————————————————————————————————
+As a user I need to be able to tell what the character is in words so that I can use the character in the right manner.
+————
+
+1. Add another JTextField with the corresponding word form of the character identified.
+
+————————————————————————————————————————
+As a user I need to be able know to code it in Java so that I can use the entity when writing a Java program.
+————
+
+1. Add another JTextField to output the Java representation once the character is inputted. (To make this work, find out if there is a file that can be accessed to correspond a character variable with a particular Java representations.)
+
+2. Display in smaller font (below the heading for the JTextField) the functionality of the Java representation of the character. 
+
+
+————————————————————————————————————————
+Extra Information to make Tasks Easier:
+
+e.g. 	alpha entity: &eacute; 
+	hex entity: &#x00e9; 
+	decimal entity &#233;
+	hex: 0x00e9; 
+	decimal: 233;
+	Java: \u00e9;
+	UTF-8: e9;
+	Latin: small e;
